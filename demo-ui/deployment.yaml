@@ -14,7 +14,7 @@ labels:
 app: demo-ui
 spec:
 containers:
-- image: ellen744/demo-ui:f52a83d00cc7c7da07e1049e58ed56125ce0df35
+- image: ellen744/demo-ui:2b8b9d4da3af185c3128fec245619071c964c4fb
 name: demo-ui
 ports:
 - containerPort: 80
